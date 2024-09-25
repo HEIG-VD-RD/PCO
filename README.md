@@ -1,6 +1,6 @@
 # PCO - Concurrent computing
 
-In this repository, you will find link to all my PCO labos.
+This repository contains all my practical work related to the concurrent programming course.
 
 [Labo2](./Labo2) <br>
 [Labo3](https://github.com/Rafou2898/PCO_labo3) <br>
